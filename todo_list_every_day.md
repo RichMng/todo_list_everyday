@@ -1,5 +1,6 @@
 + [2020-01-17](#2020-01-17)
 + [2020-01-19](#2020-01-19)
++ [2020-01-20](#2020-01-20)
 
 ---
 ### 2020-01-17
@@ -42,15 +43,32 @@
         + 预留一部分时间用于响应突发事件（开会等）
         + SOA相关知识学习
 ---
+
 ### 2020-01-19
 
 + 工作相关
     - [x] 09:00 —— 09:30 早会 + TODO LIST 整理
     - [x] 09:30 —— 11:30 告警代码阅读
     - [x] 11:30 —— 12:00 告警文档整理
+    - [x] 13:30 —— 17:00 告警代码阅读
+    - [x] 17:00 —— 18:00 告警文档整理
++ 学习相关
+    - [ ] SOA相关知识学习
+    - [ ] 分布式架构限流算法相关
+    - [x] COLLSHELL TCP/IP文章阅读 [TCP 的那些事儿（上）](https://coolshell.cn/articles/11564.html)
+    - [ ] COLLSHELL TCP/IP文章阅读 [TCP 的那些事儿（下）](https://coolshell.cn/articles/11609.html)
+---
+
+### 2020-01-20
++ 工作相关
+    - [x] 09:00 —— 09:30 早会 + TODO LIST 整理
+    - [ ] 09:30 —— 11:30 告警代码阅读
+    - [ ] 11:30 —— 12:00 告警文档整理
     - [ ] 13:30 —— 17:00 告警代码阅读
     - [ ] 17:00 —— 18:00 告警文档整理
 + 学习相关
     - [ ] SOA相关知识学习
     - [ ] 分布式架构限流算法相关
-    - [ ] COLLSHELL TCP/IP文章阅读 [TCP 的那些事儿（上）](https://coolshell.cn/articles/11564.html)、[TCP 的那些事儿（下）](https://coolshell.cn/articles/11609.html)
+    - [x] COLLSHELL TCP/IP文章阅读 [TCP 的那些事儿（上）](https://coolshell.cn/articles/11564.html)
+    - [ ] COLLSHELL TCP/IP文章阅读 [TCP 的那些事儿（下）](https://coolshell.cn/articles/11609.html)
+---
